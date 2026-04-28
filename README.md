@@ -11,7 +11,7 @@
 
 ### **Architecture Overview**
 
-<img width="800" height="500" alt="ChatGPT Image Nov 30, 2025, 09_47_57 PM" src="https://github.com/user-attachments/assets/83879685-f265-4039-a690-71cbcfbe1a4f" />
+<img width="700" height="400" alt="ChatGPT Image Nov 30, 2025, 09_47_57 PM" src="https://github.com/user-attachments/assets/83879685-f265-4039-a690-71cbcfbe1a4f" />
 
 ----
 
@@ -22,14 +22,13 @@
 -----
 
 
-## 🎬 Architecture Walkthrough & Live Deployment Video  
+## 🎬 Full Architecture Walkthrough & Production Deployment 
 
-🚀 **Click the picture below to watch the full deployment on YouTube**
-
+**📺 Click the image below to watch the complete implementation on YouTube:**
 <a href="https://www.youtube.com/watch?v=_OspwtqbCHg" target="_blank">
   <img src="https://img.youtube.com/vi/_OspwtqbCHg/maxresdefault.jpg" 
-       width="800" 
-       height="500" 
+       width="700" 
+       height="400" 
        alt="
 Building AWS Cloud Architecture: S3 + CloudFront + Route 53">
 </a>
