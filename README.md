@@ -9,6 +9,7 @@
 
 *Architected a global web presence solution for portfolio showcasing, ensuring enterprise-grade availability, security, and performance while optimising costs through serverless AWS services.*
 
+-----
 ### **Architecture Overview**
 
 <img width="700" height="400" alt="ChatGPT Image Nov 30, 2025, 09_47_57 PM" src="https://github.com/user-attachments/assets/83879685-f265-4039-a690-71cbcfbe1a4f" />
