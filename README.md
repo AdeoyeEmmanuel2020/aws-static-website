@@ -1,5 +1,5 @@
 ## Serverless Web Architecture: S3 + CloudFront + Route 53
-----
+
 **Role: AWS Solutions Architect**
 
 **Status: ✅ Architecture Designed & Validated**
@@ -109,6 +109,6 @@ Building AWS Cloud Architecture: S3 + CloudFront + Route 53">
 
 **Email:** Emmanuelofgrace@gmail.com
 
-💼 LinkedIn: [[LinkedIn Profile]](www.linkedin.com/in/emmanuel-adeoye-29187bb7)
+💼 LinkedIn: www.linkedin.com/in/emmanuel-adeoye-29187bb7
 
 
