@@ -2,7 +2,7 @@
 
 **Role: AWS Solutions Architect**
 
-**Status: ✅ Architecture Designed & Validated**
+**Status: Architecture Designed & Validated**
 
 ----
 ## **Project Description**
@@ -16,16 +16,9 @@
 
 ----
 
-## 🌐 **Live Website:**
+## Full Architecture Walkthrough & Production Deployment 
 
-[d3qzg6fjz11lcj.cloudfront.net](http://d3qzg6fjz11lcj.cloudfront.net/)
-
------
-
-
-## 🎬 Full Architecture Walkthrough & Production Deployment 
-
-**📺 Click the image below to watch the complete implementation on YouTube:**
+**Click the image below to watch the complete implementation on YouTube:**
 <a href="https://www.youtube.com/watch?v=_OspwtqbCHg" target="_blank">
   <img src="https://img.youtube.com/vi/_OspwtqbCHg/maxresdefault.jpg" 
        width="700" 
@@ -100,15 +93,42 @@ Building AWS Cloud Architecture: S3 + CloudFront + Route 53">
 3. terraform apply
 4. terraform destroy
 ----
-## **🎯 Architecture Value Proposition**
+## **Architecture Value Proposition**
 
 *This project demonstrates my ability to design production-ready cloud solutions that balance technical excellence with business objectives, ensuring scalable, secure, and cost-optimised outcomes aligned with organisational goals.*
 
-## **👤** Author
+# Author
 **Adeoye Emmanuel** - AWS Certified Solutions Architect | AWS Security Solutions Architect | DevSecOps Engineer
 
 **Email:** Emmanuelofgrace@gmail.com
 
-💼 LinkedIn: www.linkedin.com/in/emmanuel-adeoye-29187bb7
+ LinkedIn: www.linkedin.com/in/emmanuel-adeoye-29187bb7
 
+ -------
 
+# License
+This project is licensed under the MIT License
+```bash
+
+MIT License
+
+Copyright (c) 2025 [Adeoye Emmanuel Eniola]
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including, without limitation, the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+```
